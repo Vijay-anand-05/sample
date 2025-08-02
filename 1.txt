@@ -1,1 +1,1 @@
-test for pull command 
+checked pull command
